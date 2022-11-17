@@ -2810,6 +2810,9 @@ input[type="search"]::-webkit-search-results-decoration {
   --tw-bg-opacity: 1;
   background-color: rgb(131 88 255 / var(--tw-bg-opacity));
 }
+.hover\:bg-hwhite:hover {
+  background-color: rgb(94 99 104 / 31% );
+}
 .hover\:bg-jacarta-50:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(244 244 246 / var(--tw-bg-opacity));
@@ -2979,6 +2982,9 @@ input[type="search"]::-webkit-search-results-decoration {
 .dark .dark\:bg-white\/\[\.15\] {
   background-color: hsla(0, 0%, 100%, 0.15);
 }
+.dark .dark\:bg-white\/\[\.50\] {
+  background-color: hsl(0deg 0% 100% / 65%);
+}
 .dark .dark\:bg-jacarta-800 {
   --tw-bg-opacity: 1;
   background-color: rgb(16 20 54 / var(--tw-bg-opacity));
@@ -3072,6 +3078,9 @@ input[type="search"]::-webkit-search-results-decoration {
 .dark .dark\:hover\:bg-accent:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(131 88 255 / var(--tw-bg-opacity));
+}
+.dark .dark\:hover\:bg-hwhite:hover {
+  background-color: rgb(94 99 104 / 31% );
 }
 .dark .dark\:hover\:bg-jacarta-600:hover {
   --tw-bg-opacity: 1;
