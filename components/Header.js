@@ -17,7 +17,7 @@ export default function Header() {
               alt="NFTD LOGO"
             />
             <img
-              src="img/nftd-logo.png"
+              src="img/nftd-logo-dark.png"
               className="hidden max-h-10 dark:block"
               alt="NFTD LOGO"
             />
@@ -280,7 +280,7 @@ export default function Header() {
                         alt="NFTD EARTH"
                       />
                       <img
-                        src="img/nftd-logo.png"
+                        src="img/nftd-logo-dark.png"
                         className="hidden max-h-7 dark:block"
                         alt="NFTD EARTH"
                       />

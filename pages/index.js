@@ -35,7 +35,7 @@ export default function Home() {
               </p>
               <div className="inline-flex space-x-4">
                 <a
-                  href="https://rad-truffle-c76806.netlify.app/mint-stable"
+                  href="https://rad-truffle-c76806.netlify.app"
                   className="w-36 rounded-full bg-accent py-3 px-8 text-center font-semibold text-white shadow-accent-volume transition-all hover:bg-accent-dark"
                 >
                   Mint NFT
