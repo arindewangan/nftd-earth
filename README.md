@@ -1,7 +1,7 @@
 
 # &copy; NFTD STABLECOIN
-#####Author:* [Arin Dewangan](https://arindewangan.vercel.app/ "Arin Dewangan")*
-#####Deployed URL: https://nftd.netlify.app
+Author:* [Arin Dewangan](https://arindewangan.vercel.app/ "Arin Dewangan")*
+Deployed URL: https://nftd.netlify.app
 ------------
 
 ## Configuration Steps
