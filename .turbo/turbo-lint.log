@@ -1,0 +1,6 @@
+
+> nftd-earth@0.1.0 lint
+> next lint
+
+info  - Loaded env from D:\Hackathons Projects\nftd-earth\.env.local
+✔ No ESLint warnings or errors
